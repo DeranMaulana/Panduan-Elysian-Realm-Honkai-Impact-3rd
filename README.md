@@ -28,8 +28,8 @@ Untuk pembuatan situs web ini, digunakan berbagai teknologi web yang mendukung p
 - **HTML5**:  
   Struktur dasar dari halaman web ini menggunakan HTML5 untuk memastikan kompatibilitas di berbagai platform dan perangkat.
 
-- **CSS3**:  
-  Desain visual dan styling halaman menggunakan CSS3 untuk membuat tampilan responsif dan modern. Desain ini memastikan situs tetap optimal di perangkat mobile dan desktop.
+- **CSS**:  
+  Desain visual dan styling halaman menggunakan CSS untuk membuat tampilan responsif dan modern. Desain ini memastikan situs tetap optimal di perangkat mobile dan desktop.
 
 - **JavaScript**:  
   Digunakan untuk interaktivitas pada halaman web, seperti fitur navigasi dinamis, pop-up, dan animasi.
